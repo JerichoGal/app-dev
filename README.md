@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 <h1>Arcane</h1>
-<p>Arcane is a video game adaptation that explores a small part of Runeterra, The world that they in.</p>
+<p>Arcane is a netflix video game adaptation that explores a small part of Runeterra, The world that they in.</p>
 <p>The story takes place in Piltover, a glorious city celebrating progress and innovation, fueled by</p>
 <p>genius miners who push the boundaries of science, arts and craftmenship. It is a steampunk paradise</p>
 <p>with mechanical vehicles and equipments. However, sitting just below is the Undercity, The dark nether world</p>
